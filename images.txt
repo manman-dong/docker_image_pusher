@@ -1,4 +1,3 @@
-halo/halo:2.19
-
+halohub/halo
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
