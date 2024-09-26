@@ -1,5 +1,1 @@
-ollama/ollama
-homeassistant/amd64-addon-mosquitto
-friendica
-grafana/grafana
-busybox
+halo:2.10
