@@ -1,1 +1,1 @@
-phpmyadmin
+kylemanna/openvpn
