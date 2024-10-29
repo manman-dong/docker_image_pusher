@@ -1,1 +1,1 @@
-kejilion/nginx
+kejilion/nginx:alpine
