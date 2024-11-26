@@ -1,9 +1,6 @@
-prometheus/prometheus
-caddy:alpine
+prometheus
+caddy
 traefik:v2.5
 openvpn3:latest
-nextcloud:latest
-ghost:alpine
-jellyfin/jellyfin
 homeassistant/home-assistant:stable
 calibre/ebook-server
