@@ -1,1 +1,1 @@
-prom/prometheus:latest-arm64
+prom/prometheus-linux-arm64
