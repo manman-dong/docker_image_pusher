@@ -1,5 +1,2 @@
 caddy
-traefik:v2.5
-openvpn3:latest
-homeassistant/home-assistant:stable
-calibre/ebook-server
+traefik
