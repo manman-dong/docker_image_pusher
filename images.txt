@@ -1,4 +1,3 @@
-eurobertics/openlitespeed
 linuxserver/sonarr
 linuxserver/radarr
 linuxserver/plex
