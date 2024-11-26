@@ -1,1 +1,1 @@
-linuxserver/webtop:latest
+litespeedtech/openlitespeed:latest-arm64
