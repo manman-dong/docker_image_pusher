@@ -1,1 +1,13 @@
-redis:alpine
+centos:8
+debian:stable
+openjdk:17
+rabbitmq:management
+linuxserver/sonarr
+linuxserver/radarr
+linuxserver/filebot
+prometheus/prometheus
+caddy
+traefik:v2.5
+openvpn3:latest
+homeassistant/home-assistant:stable
+calibre/ebook-server
