@@ -1,1 +1,1 @@
-litespeedtech/openlitespeed:latest-arm64
+ghcr.io/ndigitals/openlitespeed:latest
