@@ -1,4 +1,3 @@
-prometheus
 caddy
 traefik:v2.5
 openvpn3:latest
