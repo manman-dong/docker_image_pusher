@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor-arm64:latest
+linuxserver/webtop:ubuntu-kde:latest
