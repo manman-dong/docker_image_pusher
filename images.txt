@@ -1,1 +1,9 @@
- benweet/stackedit:latest
+johngong/calibre-web
+modstart/modstartblog
+liwei2633/gopeed
+xream/sub-store:latest
+chaitin/safeline-detector
+snowdreamtech/frps
+jumpserver/jms_all
+mcr.microsoft.com/mssql/server:2022-latest
+rediscommander/redis-commander:latest
