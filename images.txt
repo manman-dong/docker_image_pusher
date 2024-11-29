@@ -1,4 +1,3 @@
-johngong/calibre-web
 modstart/modstartblog
 liwei2633/gopeed
 xream/sub-store:latest
