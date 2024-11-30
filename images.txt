@@ -1,7 +1,1 @@
-liwei2633/gopeed
-xream/sub-store:latest
-chaitin/safeline-detector
-snowdreamtech/frps
-jumpserver/jms_all
-mcr.microsoft.com/mssql/server:2022-latest
-rediscommander/redis-commander:latest
+jc21/nginx-proxy-manager:latest
