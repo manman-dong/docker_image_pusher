@@ -1,1 +1,1 @@
---platform linux/arm64 dpanel/dpanel:lite
+--platform linux/arm64 webpsh/webp-server-go
