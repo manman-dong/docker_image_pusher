@@ -1,1 +1,1 @@
---platform linux/arm64 xhongc/music_tag_web:latest
+ dpanel/dpanel:lite
