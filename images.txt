@@ -1,1 +1,1 @@
---platform linux/amd64 dpanel/dpanel:lite
+--platform linux/arm64 dpanel/dpanel:lite
