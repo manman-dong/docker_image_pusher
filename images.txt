@@ -1,1 +1,1 @@
---platform linux/arm64 webpsh/webp-server-go
+--platform linux/arm64 bitnami/APP
