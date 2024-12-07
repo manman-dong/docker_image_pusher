@@ -1,1 +1,1 @@
---platform linux/arm64 openspeedtest/latest:latest
+--platform linux/arm64 ghcr.io/wg-easy/wg-easy:latest
