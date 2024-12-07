@@ -1,1 +1,1 @@
---platform linux/arm64 bitnami/APP
+--platform linux/arm64 openspeedtest/latest:latest
